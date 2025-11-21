@@ -1,0 +1,181 @@
+/* For laptops */
+@media screen and (max-width:1280px){
+    .cards{
+        margin: 0 auto;
+    }
+}
+/* For tablets */
+@media screen and (max-width:1024px) { 
+    #goal{
+        margin: 50px;
+    }
+    #goal h1{
+        font-size: 32px;
+    }
+
+    .heading-text h1{
+       font-size: 28px;
+    }
+
+#blog{
+    margin: 0px 50px 50px 50px;
+}
+
+#blog #banner-container #banner {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: left;
+    padding: 40px 60px;
+}
+#banner #texts2 {
+    width: 100%;
+}
+#texts2 h2 {
+    font-size: 20px;
+
+}
+
+#yt-video{
+    padding: 24px;
+    margin-bottom: 50px;
+   
+}
+#target{
+    margin:0px 50px 50px 50px ;
+}
+#cards-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 32px;
+}
+
+footer {
+    padding: 24px 50px;
+}
+
+footer #footer-elements p {
+    font-size: 16px;
+}
+
+#social img {
+    width: 24px;
+
+}
+}
+
+/* For mobiles */
+@media screen and (max-width:640px){
+    button{
+        font-size: 16px;
+    }
+    #nav {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #nav h1 {
+        margin-bottom: 15px;
+    }
+
+    #goal{
+        margin: 50px 25px ;
+        padding: 15px;
+        padding-bottom: 40px;
+        
+    }
+    #goal img{
+        width: 150px; 
+    }
+    #goal h1{
+        font-size: 28px;
+        
+    }
+    #goal p{
+        font-size: 16px;
+        text-align: left;
+    }
+    .heading-text {
+        width: 100%;
+    }
+    
+    .heading-text h1 {
+        font-size: 24px;
+    }
+    
+    .heading-text p {
+        margin: 0;
+        margin-bottom: 48px;
+    }
+
+    #blog {
+        margin: 0px 25px 50px 25px;
+    }
+    #blog #banner-container #banner{
+        padding: 15px;
+    }
+    #banner #texts2 {
+        margin: 0px;
+        width: 100%;
+    }
+    
+    #texts2 h2 {
+            font-size: 20px;
+    
+    }
+    #banner img{
+            width: 220px;
+            padding: 5px;
+    }
+#yt-video {
+    padding: 16px;
+    margin-bottom: 50px;
+    width: 90%;
+
+}
+.cards{
+    max-width:100%;
+}
+
+
+
+
+
+
+    footer {
+        padding: 15px 15px;
+    }
+
+    footer #footer-elements {
+        flex-direction: column;
+        text-align: left;
+        justify-content: left;
+        gap: 16px;
+    }   
+
+    footer #footer-elements p {
+    font-size: 16px;
+    }
+
+#social {
+    
+}
+#social img {
+    width: 24px;
+} 
+}
+/* For smaller phones */
+@media screen and (max-width:425px){
+    #yt-video {
+        padding: 10px;
+        margin-bottom: 50px;
+        width: 90%;
+    }
+}
+
+
+
+
+
+
