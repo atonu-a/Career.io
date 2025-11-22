@@ -1,7 +1,7 @@
 
 # 🚀 Career.io
 
-![Website](https://img.shields.io/badge/Portfolio-Personal-blue) ![HTML5](https://img.shields.io/badge/HTML5-orange) ![CSS3](https://img.shields.io/badge/CSS3-blue) ![Tailwind](https://img.shields.io/badge/Tailwind-blueviolet)
+![Website](https://img.shields.io/badge/Portfolio-Personal-blue) ![HTML5](https://img.shields.io/badge/HTML5-orange) ![CSS3](https://img.shields.io/badge/CSS3-blue) 
 
 **Career.io** is a personal portfolio website that serves as an open declaration of my commitment to becoming a skilled developer by 2025. It showcases my inspiration, current learning targets, and development journey.
 
